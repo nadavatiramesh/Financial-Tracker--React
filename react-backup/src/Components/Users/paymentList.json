@@ -1,0 +1,98 @@
+[
+    {
+        "paymentId": 1,
+        "senderName": "Martin",
+        "mode": "CREDIT",
+        "receiverName": "Rajan",
+        "dateOfpayment": "1979-05-01",
+        "amount": 1000
+    },
+    {
+        "paymentId": 2,
+        "senderName": "Aravind",
+        "mode": "DEBIT",
+        "receiverName": "Manoharan",
+        "dateOfpayment": "1996-02-14",
+        "amount": 2000
+    },
+    {
+        "paymentId": 3,
+        "senderName": "Vinod",
+        "mode": "DEBIT",
+        "receiverName": "Paraman",
+        "dateOfpayment": "1990-08-27",
+        "amount": 1000
+    },
+    {
+        "paymentId": 4,
+        "senderName": "Francis",
+        "mode": "CREDIT",
+        "receiverName": "JJ",
+        "dateOfpayment": "1998-03-27",
+        "amount": 3000
+    },
+    {
+        "paymentId": 5,
+        "senderName": "Chris",
+        "mode": "CREDIT",
+        "receiverName": "Kumar.S",
+        "dateOfpayment": "1999-01-14",
+        "amount": 4000
+    },
+    {
+        "paymentId": 6,
+        "senderName": "Dinesh",
+        "mode": "DEBIT",
+        "receiverName": "Amoke",
+        "dateOfpayment": "1997-10-18",
+        "amount": 2000
+    },
+    {
+        "paymentId": 7,
+        "senderName": "Victor",
+        "mode": "CREDIT",
+        "receiverName": " D",
+        "dateOfpayment": "2001-09-27",
+        "amount": 4000
+    },
+    {
+        "paymentId": 8,
+        "senderName": "Arun",
+        "mode": "DEBIT",
+        "receiverName": "Devar",
+        "dateOfpayment": "1975-02-14",
+        "amount": 5000
+    },
+    {
+        "paymentId": 9,
+        "senderName": "Jhon",
+        "mode": "CREDIT",
+        "receiverName": "PalanivelRajan",
+        "dateOfpayment": "1990-06-29",
+        "amount": 2000
+    },
+    {
+        "paymentId": 10,
+        "senderName": "Sneha",
+        "mode": "DEBIT",
+        "receiverName": "PalanivelRajan",
+        "dateOfpayment": "2005-05-19",
+        "amount": 7000
+    },
+    {
+        "paymentId": 11,
+        "senderName": "Jhonson",
+        "mode": "CREDIT",
+        "receiverName": "PalanivelRajan",
+        "dateOfpayment": "2010-10-10",
+        "amount": 3000
+    },
+    {
+        "paymentId": 12,
+        "senderName": "Nandini",
+        "mode": "DEBIT",
+        "receiverName": "S",
+        "dateOfpayment": "2000-05-24",
+        "amount": 2000
+    }
+]

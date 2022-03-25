@@ -1,0 +1,18 @@
+.sidemenu{
+    width: 200px;
+    position: fixed;
+    left: 0px;
+    top:54px;
+    padding: 0px;
+    height: 100%;
+    border-right: solid 2px #ced4da;
+    .list-group-item{
+        padding:0px;
+        .sidenav-icon{
+            margin-right: 10px;
+        }
+    }
+}
+.sidemenu.collapsed{
+    width: 48px;
+}
